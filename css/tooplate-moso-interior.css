@@ -499,12 +499,12 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: url('../images/empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg');
+  background-image: url('../images/banner.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 70px;
+  padding-bottom: 80px;
 }
 
 
