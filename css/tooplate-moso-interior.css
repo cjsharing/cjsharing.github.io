@@ -742,6 +742,7 @@ strong {
 
 .shop-image-wrap {
   position: relative;
+  width: 300px;
 }
 
 .shop-image-wrap:hover .shop-btn-wrap {
