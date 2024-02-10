@@ -606,7 +606,14 @@ strong {
   background: var(--section-bg-color);
 }
 
-.reviews-carousel .owl-item img,
+.reviews-carousel .owl-item img {
+  border-radius: var(--border-radius-medium);
+  width: 300px;
+  object-fit: contain;
+  position: relative;
+  overflow: hidden;
+ }
+
 .avatar-image {
   border-radius: var(--border-radius-large);
   width: 50px;
