@@ -740,6 +740,11 @@ strong {
   margin-bottom: 24px;
 }
 
+.shop-image-big {
+  position: relative;
+  width: 400px;
+}
+
 .shop-image-wrap {
   position: relative;
   width: 300px;
